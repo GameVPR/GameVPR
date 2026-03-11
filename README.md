@@ -24,3 +24,16 @@
 <h3>Operating system:</h3>
 <p><img src="https://garudalinux.org/assets/garuda-purple.svg" alt="garuda" width="40" height="40" title="Garuda GNU/Linux (Based on Arch)"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_(dark_blue).svg" alt="windows10" width="38" height="38" title="Microsoft Windows 10"/></p>
 
+<hr>
+<h2>More about me</h2>
+<ul>
+  <li>I like <b>anime.</b></li>
+  <li>I like <b>archiving things.</b></li>
+  <li>I like <b>thinking outside of the box</b> and <b>breaking rules and stuff.</b></li>
+
+  <li>I would prefer <b>FOSS</b> over proprietary software, day & night, every day of the year.</li>
+</ul>
+
+<hr>
+
+Long live FOSS developers, and the best FOSS licenses... (Unlicense, MIT, Apache 2.0, GPLv3)
