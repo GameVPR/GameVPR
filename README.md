@@ -30,7 +30,7 @@
   <li>I like <b>anime.</b></li>
   <li>I like <b>archiving things.</b></li>
   <li>I like <b>thinking outside of the box</b> and <b>breaking rules and stuff.</b></li>
-
+  <li>I probably have <b>AuDHD</b> or smth.</li>
   <li>I would prefer <b>FOSS</b> over proprietary software, day & night, every day of the year.</li>
 </ul>
 
