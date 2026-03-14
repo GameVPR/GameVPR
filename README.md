@@ -24,7 +24,7 @@ i want to die
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" title="Figma"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" title="IntelliJ IDEA 2025"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40" title="Visual Studio 2022"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" title="Visual Studio Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="vmware" width="40" height="40" title="VMWare Workstation"/></p>
 
 <h3>Operating system:</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_(2021).svg" alt="fedora" width="40" height="40" title="Fedora GNU/Linux"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_(dark_blue).svg" alt="windows10" width="38" height="38" title="Microsoft Windows 10"/></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_(2021).svg" alt="fedora" width="40" height="40" title="Fedora GNU/Linux"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows10" width="38" height="38" title="Microsoft Windows 11"/></p>
 
 <hr>
 <h2>More about me</h2>
