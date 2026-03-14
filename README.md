@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: **I've been coding since the end of my elementary school.**
 
-i want to die
+i genuinely want to die
 
 <h3>Contact me:</h3>
 <p><a href="https://discord.com/users/773497633947254795" style="text-decoration:none;"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40" title="Discord: @gamevpr"/></a> <a href="mailto:gamevpr@proton.me" style="text-decoration:none;"><img src="https://files.brandlogos.net/svg/AVfpj9MZZ6/proton-mail-icon-vector-brandlogos.net_epi05isek.svg" alt="protonmail" width="40" height="40" title="gamevpr@proton.me"/></a></p>
